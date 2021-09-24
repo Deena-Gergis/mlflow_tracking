@@ -1,0 +1,4 @@
+artifact_location: file:///home/deena_gergis/mlflow_illustartion/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: mlflow_tutorial

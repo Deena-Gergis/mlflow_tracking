@@ -1,0 +1,15 @@
+artifact_uri: file:///home/deena_gergis/mlflow_illustartion/mlruns/1/d39decb7e183450d87f679fb044c6e66/artifacts
+end_time: 1632497155540
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d39decb7e183450d87f679fb044c6e66
+run_uuid: d39decb7e183450d87f679fb044c6e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1632497155488
+status: 3
+tags: []
+user_id: deena_gergis
